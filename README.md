@@ -37,11 +37,23 @@ From here deleting the maintenance department is pretty simple, we just need to 
 
 - Creating a Ticket
 
+Admin Login Page - http://localhost/osTicket/scp/login.php
 
+End User Portal - http://localhost/osTicket
 
+We're going to be creating a ticket as an end user. We'll want to navigate to the end user portal for osTicket so we can sign in as a user. I provided the link here just in case you lost or forgot it when osTicket diplsayed it for us earlier after we successfully completed the installation process. Once at the end user portal we just have to hit 'Open a New Ticket' from the right hand side. The only information we need to create a help ticket is the users name, and their email address. For this ticket we'll create we'll just say that the entire mobile/online banking system is down. In the box below I'll fill out the issue with a bit more depth. 
 
+![opennewticket](https://github.com/user-attachments/assets/e991e26f-8797-47c8-a6c0-ebb7e7655d28)
 
+With everything we need in order we can go ahead and select 'Create Ticket' in all red in the bottom left. 
 
+- Ticket Properties
+
+Next we'll be logging in as our agent 'John' that we created in the last walkthrough. First navigate back to the admin portal, and then enter the information for the agents username and password which we set and logged in our notepad earlier. Once logged in you should be taken to the open ticket page, and you should be able to see and open the specific ticket that we just created as our end user.
+
+![ticketprop](https://github.com/user-attachments/assets/d078bb08-7a92-43a7-88c1-f4f996aed055)
+
+Here we can observed all of the tickets properties. Including the priority, department, SLA, and Assigned To catagories. We're going to go through and set these properties. Starting with SLA, 
 
 
 
