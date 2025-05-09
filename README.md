@@ -89,6 +89,7 @@ In our mock scenario we waited until after lunch, and the point of contact notif
 
 ![finished](https://github.com/user-attachments/assets/814e4623-fc92-410a-8058-821e61e032ae)
 
+This concludes this walkthrough on tickets and the ticket lifecycle. We went through and created some mock tickets as end users and configured their properties, we also 'solved' these mock tickets as agents through the agent portal. You should have gotten a decent feel for what the ticket process entails and for the osTicket software as well. Experience with the software may be extremely vaulable when dealing with real world scenarios and adjacent softwares that work similarly, easing the learning process to new individuals taking up work as agents.
 
 
 
